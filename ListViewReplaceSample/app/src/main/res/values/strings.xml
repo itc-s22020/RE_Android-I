@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">新！リスト選択サンプル</string>
+    <string name="toast_msg">あなたが選んだ定食：%1$s</string>
+</resources>
